@@ -1,1 +1,1 @@
-# Algorytmy-macierzowe
+# Algorytmy macierzowe
